@@ -1,0 +1,7 @@
+parameters:
+#    movie_manager_gallery.example.class: MovieManager\GalleryBundle\Example
+
+services:
+#    movie_manager_gallery.example:
+#        class: %movie_manager_gallery.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

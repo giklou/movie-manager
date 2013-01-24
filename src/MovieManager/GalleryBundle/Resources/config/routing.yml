@@ -1,0 +1,3 @@
+movie_manager_gallery_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: MovieManagerGalleryBundle:Default:index }
